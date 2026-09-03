@@ -1,0 +1,11 @@
+{
+  "name": "AM2050 — Arewa Mission 2050",
+  "short_name": "AM2050",
+  "description": "A field platform to eliminate out-of-school children in Northern Nigeria.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#123148",
+  "icons": [{ "src": "/manus-storage/am2050-logo-mark_b4ca4fe7.png", "sizes": "512x512", "type": "image/png" }]
+}
+
